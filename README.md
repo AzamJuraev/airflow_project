@@ -24,5 +24,3 @@ docker compose restart *container*
 
 ## STOP
 docker compose stop *container*
-
-# airflow_project
